@@ -8,7 +8,7 @@ The Arduino code here is a modified version of the decoder found at
 
 ## Hardware
 
-* Käääse
+* KäääseBrot
 * Arduino-compatible board.
 * 433MHz receiver. I bought the [Freetronics 433MHz shield](http://www.freetronics.com/products/receiver),
   but any old 433MHz receiver will do. The data pin from the receiver should
